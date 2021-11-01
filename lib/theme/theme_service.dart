@@ -32,6 +32,6 @@ class Themes {
     iconTheme: const IconThemeData(color: Colors.black),
   );
   final darkTheme = ThemeData.dark().copyWith(
-    primaryColor: colorPrimary,
+    primaryColor: color1,
   );
 }
