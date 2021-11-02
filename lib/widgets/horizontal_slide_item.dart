@@ -27,7 +27,7 @@ class HorizontalSlideItem extends StatelessWidget {
           CustomHeadline(
             text: name!,
             fSize: 0.7,
-            myColor: color1,
+            myColor: colorWhite,
             myFW: FontWeight.w600,
             myTa: TextAlign.start,
           )

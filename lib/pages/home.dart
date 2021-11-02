@@ -12,7 +12,7 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: color4,
+      backgroundColor: colorPrimary,
       body: bodyGetir(),
     );
   }
@@ -67,11 +67,11 @@ class _HomePageState extends State<HomePage> {
         children: [
           CustomHeadline(
             text: "Ürünler",
-            myColor: color1,
+            myColor: colorWhite,
             fSize: 1.2,
             myFW: FontWeight.bold,
           ),
-          CustomHeadline(text: "Sepet", fSize: 0.8, myColor: color1),
+          CustomHeadline(text: "Sepet", fSize: 0.8, myColor: colorWhite),
         ],
       ),
     );

@@ -33,7 +33,7 @@ flutter_icons:
   adaptive_icon_foreground: assets/images/img.png
 
 flutter_native_splash:
-  image: assets/images/img.png
+  image: assets/images/empty.png
   color: "#E80822"
   android_disable_fullscreen: true
 
