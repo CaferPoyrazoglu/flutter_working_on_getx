@@ -29,17 +29,17 @@ flutter_icons:
   android: true
   ios: false
   image_path: assets/images/img.png
-  adaptive_icon_background: "#ffffff"
+  adaptive_icon_background: "#E80822"
   adaptive_icon_foreground: assets/images/img.png
 
 flutter_native_splash:
   image: assets/images/img.png
-  color: "#ffffff"
+  color: "#E80822"
+  android_disable_fullscreen: true
 
 # flutter build apk --target-platform android-arm
 # flutter pub run flutter_launcher_icons:main
 # flutter pub run flutter_native_splash:create
-# flutter pub run flutter_app_name
 # flutter pub run change_app_package_name:main com.new.package.name
 
 flutter:

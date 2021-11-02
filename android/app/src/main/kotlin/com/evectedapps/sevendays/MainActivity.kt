@@ -1,4 +1,4 @@
-package com.evectedapps.starbucks
+package com.evectedapps.sevendays
 
 import io.flutter.embedding.android.FlutterActivity
 
