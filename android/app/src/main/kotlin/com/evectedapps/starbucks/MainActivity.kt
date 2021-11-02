@@ -1,4 +1,4 @@
-package com.example.myapp
+package com.evectedapps.starbucks
 
 import io.flutter.embedding.android.FlutterActivity
 
